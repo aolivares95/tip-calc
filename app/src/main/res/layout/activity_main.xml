@@ -80,7 +80,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calculate_button"
-        tools:text="@string/tip_amount" />
+        tools:text="Tip Amount: $10" />
     <!-- this is a comment -->
 </androidx.constraintlayout.widget.ConstraintLayout>
 
